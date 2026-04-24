@@ -1,20 +1,33 @@
 # Upstream open issues report
 
-Updated (UTC): 2026-04-24T08:33:56.863Z
+Updated (UTC): 2026-04-24T08:44:14.058Z
 
 ## Summary
 
 | Upstream repo | Open issues |
 |---|---:|
-| MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer | 1 |
-| MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect | 1 |
+| MicrosoftLearning/MB-800-Business-Central-Functional-Consultant | 1 |
+| MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate | 1 |
+| MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer | 4 |
+| MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management | 3 |
+| MicrosoftLearning/MS-4010-Extend-Microsoft365-Copilot-declarative-agents-VS-Code | 1 |
+| MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot | 1 |
 
-**Repos with open issues:** 2  
-**Total open issues:** 2
+**Repos with open issues:** 6  
+**Total open issues:** 11
 
 ## Review table
 
 | Issue | Candidate lab URL(s) | Resolvable | Not resolvable |
 |---|---|---|---|
-| [MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer #221](https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/issues/221) — Lab 7 -PCF |  | [ ] | [ ] |
-| [MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect #48](https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect/issues/48) — Exercise - App composition and solution segmentation |  | [ ] | [ ] |
+| [MicrosoftLearning/MB-800-Business-Central-Functional-Consultant #209](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/issues/209) — Import Predefined Package setting missing |  | [ ] | [ ] |
+| [MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate #31](https://github.com/MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate/issues/31) — PL-7002 Create Cloud Flows - Lab 1 - Exercise 2 - Issue |  | [ ] | [ ] |
+| [MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer #102](https://github.com/MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer/issues/102) — [Metadata] Update MS-721 lab metadata (description, level, duration) |  | [ ] | [ ] |
+| [MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer #84](https://github.com/MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer/issues/84) — lab managee teams voice envirionement |  | [ ] | [ ] |
+| [MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer #83](https://github.com/MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer/issues/83) — Lab Microsoft Teams voice admin |  | [ ] | [ ] |
+| [MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer #82](https://github.com/MicrosoftLearning/MS-721T00-Collaboration-Communications-Systems-Engineer/issues/82) — lab4 playback error |  | [ ] | [ ] |
+| [MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management #100](https://github.com/MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management/issues/100) — [Metadata] Update MB-330-Microsoft-Dynamics-365-Supply-Chain-Management lab metadata (description, level, duration) |  | [ ] | [ ] |
+| [MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management #95](https://github.com/MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management/issues/95) — Case study 2B Quality control and quality management |  | [ ] | [ ] |
+| [MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management #94](https://github.com/MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management/issues/94) — MB-330, Module 4, Exercise 5 |  | [ ] | [ ] |
+| [MicrosoftLearning/MS-4010-Extend-Microsoft365-Copilot-declarative-agents-VS-Code #28](https://github.com/MicrosoftLearning/MS-4010-Extend-Microsoft365-Copilot-declarative-agents-VS-Code/issues/28) — copilot license |  | [ ] | [ ] |
+| [MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot #46](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/issues/46) — Impact from new "Agentic Copilot" changes in Excel, Word, and PowerPoint |  | [ ] | [ ] |
