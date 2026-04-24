@@ -1,0 +1,41 @@
+name: Upstream Issues Report (manual)
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: upstream-issues-report
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate report
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_READ_TOKEN }}
+        run: node scripts/upstream-issues-report.cjs
+
+      - name: Commit report (only if changes)
+        run: |
+          if git status --porcelain | grep .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add gh-reports/upstream-issues-report.md
+            git commit -m "Update upstream issues report"
+            git push
+          else
+            echo "No changes to commit."
+          fi
